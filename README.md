@@ -11,6 +11,7 @@ to complete, and fight monsters.
 
 # How to play
 
+![alt text](screenshots/UI.PNG)
 The controls are simple you just click on what direction you want your hero to go.
 The following options are North, East, West, South. If there is a way to continue walking in a direction you desire there will be a button displayed for it.
 
@@ -25,6 +26,7 @@ The following options are North, East, West, South. If there is a way to continu
 - In the bottom right you can chose from items in your bag to use (if they are usable) and for an example attack a monster with your sword or use a potion (if you have one) to gain back some of your hit points back.
 
 # What the app looks like
+![alt text] (screenshots/map.PNG)
 
 
 
